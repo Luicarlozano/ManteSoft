@@ -194,6 +194,27 @@ ul.slider li:target{
     border: 1px solid gray;
 }
 
+.Cuadrado{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 85%;
+    height: 400px;
+    background-color:rgb(255, 245, 245);
+    border: 1px solid #eff4ef;
+	border-radius: 30px;
+	box-shadow: inset 3px 3px 3px rgba(255,255,255,.7), inset -2px -2px 3px rgba(0,0,0,.1), 2px 2px 10px rgba(0,0,0,.1);
+	text-shadow: 1px 1px 1px rgba(255,255,255,.9);
+}
+
+.Cuadrado li{
+    margin-top: 15px;
+    margin-left: 25px;
+    padding: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: italic;
+    font-size: 15px;
+}
+
 .verm{
     width: 80px;
     height: 25px;
@@ -210,6 +231,40 @@ ul.slider li:target{
 	text-shadow: 1px 1px 1px rgba(255,255,255,.9);  /* Sombra del texto */
 	text-align: center;
 }
+
+.verm_1{
+    width: 80px;
+    height: 25px;
+    font-size: 20px;
+    color: blue;
+    border-radius: 10%;
+    float: inline-end;
+    text-align: center;
+    margin-right: 10px;
+    border: 1px solid #b7d5b7; /* Color del borde, debe ser más oscuro que fondo */
+	background: #a1b0a1; /* Fondo */
+	border-radius: 6px;  /* Bordes redondos */
+	box-shadow: inset 3px 3px 3px rgba(255,255,255,.7), inset -2px -2px 3px rgba(0,0,0,.1), 2px 2px 10px rgba(0,0,0,.1);
+	text-shadow: 1px 1px 1px rgba(255,255,255,.9);  /* Sombra del texto */
+	text-align: center;
+}
+
+.Contenedor_2 input{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: left;
+}
+
+.Mensaje{
+    margin-left: 50 px;
+    width: 250px;
+    height: 200px;
+}
+
+.Contenedor_2 select{
+    margin-left: 50px;
+}
+
 
 .rColum{
     display: flex;

@@ -1,3 +1,7 @@
 Historias de Usuario
 
-1. 
+1. Como usuario quiero poder conectar con las redes sociales para poder estar enterado de otras actividades
+2. Como usuario quiero poder ver la sección de gestores para conocer cuales existen.
+3. Como usuario quiero poder dar comentario o sugerencias para ayudar a mejorar el sitio web
+4. como usuario quiero poder ver la seccion de noticias para estar más actualizada frente a estos temas
+5. como usuario quiero poder ver la seccion de No aprovechables para conocer cuales son estos residuos
